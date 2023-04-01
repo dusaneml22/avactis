@@ -37,7 +37,7 @@ public class AllFlipkardLinkElementsTestNGProgram {
 
   @AfterMethod
   public void afterMethod() {
-	  driver.quit();
+	  
   }
 
 }
